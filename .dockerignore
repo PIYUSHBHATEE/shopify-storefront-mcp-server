@@ -1,0 +1,49 @@
+# Git files
+.git
+.gitignore
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Documentation
+README.md
+*.md
+
+# Test files
+tests/
+test_*.py
+*_test.py
+
+# User data examples
+user_data/
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Environment files
+.env
+.env.local
+.env.*.local
